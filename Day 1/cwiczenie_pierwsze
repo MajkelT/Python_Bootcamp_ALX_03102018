@@ -1,0 +1,17 @@
+# to jest komentarz
+""" Utwórz zmienne a i b, przypisz im jakieś wartości liczbowe
+
+utwórz zmienną - pole_prostokata i przypisz do niej formułę liczącą to pole"""
+
+# a = 5
+# b = 6
+# pole_prostokata = a*b
+# print ("Pole prostokąta o bokach", str(a) + ", " + str(b) + " wynosi:", pole_prostokata)
+# print (f"Pole prostokąta o bokach {a}, {b} wynosi: {a*b}")
+
+a = int(input("Podaj bok a "))
+b = input("Podaj bok b ")
+b = int(b)
+pole_prostokata = a*b
+print ("Pole prostokąta o bokach", str(a) + ", " + str(b) + " wynosi:", pole_prostokata)
+print (f"Pole prostokąta o bokach {a}, {b} wynosi: {a*b}")

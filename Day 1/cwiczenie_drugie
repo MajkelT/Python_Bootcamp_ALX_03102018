@@ -1,0 +1,11 @@
+"""
+Analogicznie jak w ćwiczeniu pierwszym
+Zapytaj o długoś podstawy i wysokość trójkąta
+
+Wypisz ładnym tekstem jego pole
+"""
+
+a = int(input("Podaj długość podstawy "))
+h = int(input("Podaj długość wysokości "))
+PoleTrojkata = 0.5*(a*h)
+print(f"Pole Trójkąta o podstawie {a} i wysokości {h} wynosi {a*h}")
