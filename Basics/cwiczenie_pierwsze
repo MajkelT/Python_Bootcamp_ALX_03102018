@@ -15,3 +15,4 @@ b = int(b)
 pole_prostokata = a*b
 print ("Pole prostokąta o bokach", str(a) + ", " + str(b) + " wynosi:", pole_prostokata)
 print (f"Pole prostokąta o bokach {a}, {b} wynosi: {a*b}")
+print ("MajkelT")
