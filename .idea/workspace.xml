@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5e41f5d-20c3-44c5-896c-b6cc26115bde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Funkcje/Zadanie #4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/Zadanie #4a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/Zadanie #4b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/Zadanie #rekurencje.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/Zadanie #5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/Zadanie #6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/Zadanie #7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/Zadanie #7a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/Zadanie #8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/Wprowadzenie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Funkcje/Zadanie #3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funkcje/Zadanie #3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,17 +20,18 @@
     <session id="-663098453">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.33" value="2" />
-          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.36" value="2" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,13 +40,13 @@
           <entry key="cwiczenie_pierwsze" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="js" value="1" />
-          <entry key="py" value="33" />
+          <entry key="py" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="35" />
+          <entry key="Python" value="43" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -54,14 +56,14 @@
           <entry key="cwiczenie_drugie" value="372" />
           <entry key="cwiczenie_pierwsze" value="600" />
           <entry key="gitignore" value="19" />
-          <entry key="py" value="22494" />
+          <entry key="py" value="26975" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="23494" />
+          <entry key="Python" value="27975" />
         </counts>
       </usages-collector>
     </session>
@@ -72,64 +74,65 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #3.py">
+        <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="285">
+              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
               <folding>
-                <marker date="1541439532876" expanded="true" signature="46:47" ph="..." />
-                <marker date="1541439532876" expanded="true" signature="46:51" ph="..." />
-                <marker date="1541439532876" expanded="true" signature="716:721" ph="..." />
-                <marker date="1541439532876" expanded="true" signature="1001:1006" ph="..." />
+                <marker date="1541614631422" expanded="true" signature="225:283" ph="..." />
+                <marker date="1541614631422" expanded="true" signature="322:327" ph="..." />
+                <marker date="1541614631422" expanded="true" signature="646:651" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #4.py">
+        <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #7a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="65" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <marker date="1541442199376" expanded="true" signature="328:333" ph="..." />
+                <marker date="1541617683335" expanded="true" signature="33:367" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #4a.py">
+        <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+            <state relative-caret-position="68">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding>
-                <marker date="1541444746718" expanded="true" signature="492:510" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #4b.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-              <folding>
-                <marker date="1541445249593" expanded="true" signature="234:355" ph="..." />
-                <marker date="1541445249593" expanded="true" signature="413:418" ph="..." />
+                <marker date="1541617976867" expanded="true" signature="113:204" ph="..." />
+                <marker date="1541617976867" expanded="true" signature="135:182" ph="..." />
+                <marker date="1541617976867" expanded="true" signature="217:222" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #rekurencje.py">
+        <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming/Wprowadzenie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <marker date="1541446005327" expanded="true" signature="180:326" ph="..." />
+                <marker date="1541619151585" expanded="true" signature="114:208" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="54" lean-forward="true" selection-start-line="21" selection-end-line="23" selection-end-column="54" />
+              <folding>
+                <marker date="1541613423156" expanded="true" signature="547:613" ph="..." />
+                <marker date="1541613423156" expanded="true" signature="652:698" ph="..." />
               </folding>
             </state>
           </provider>
@@ -185,6 +188,12 @@
         <option value="$PROJECT_DIR$/Funkcje/Zadanie #4a.py" />
         <option value="$PROJECT_DIR$/Funkcje/Zadanie #4b.py" />
         <option value="$PROJECT_DIR$/Funkcje/Zadanie #rekurencje.py" />
+        <option value="$PROJECT_DIR$/Funkcje/Zadanie #5.py" />
+        <option value="$PROJECT_DIR$/Funkcje/Zadanie #6.py" />
+        <option value="$PROJECT_DIR$/Funkcje/Zadanie #7.py" />
+        <option value="$PROJECT_DIR$/Funkcje/Zadanie #7a.py" />
+        <option value="$PROJECT_DIR$/Funkcje/Zadanie #8.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming/Wprowadzenie.py" />
       </list>
     </option>
   </component>
@@ -202,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,26 +219,14 @@
               <item name="python_bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_bootcamp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python_bootcamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Funkcje" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_bootcamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Funkcje" type="462c0819:PsiDirectoryNode" />
-              <item name=".pytest_cache" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Funkcje/Zadanie #4b.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Funkcje/Zadanie #7a.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -248,8 +246,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Zadanie #rekurencje">
-    <configuration name="Zadanie #3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Wprowadzenie">
+    <configuration name="Wprowadzenie" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,11 +255,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funkcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ObjectOrientedProgramming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/Zadanie #3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjectOrientedProgramming/Wprowadzenie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zadanie #4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Zadanie #5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,7 +280,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/Zadanie #4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/Zadanie #5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zadanie #4a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Zadanie #7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,7 +301,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/Zadanie #4a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/Zadanie #7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zadanie #4b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Zadanie #8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,7 +322,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/Zadanie #4b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/Zadanie #8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,25 +331,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zadanie #rekurencje" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test Zadanie #7" type="tests" factoryName="py.test" temporary="true">
       <module name="python_bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funkcje" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/Zadanie #rekurencje.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Funkcje/Zadanie #7a.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadanie 5" type="tests" factoryName="py.test">
+      <module name="python_bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\kurs\PycharmProjects\python_bootcamp\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Funkcje/Zadanie #5.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadanie 6" type="tests" factoryName="py.test">
+      <module name="python_bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\kurs\PycharmProjects\python_bootcamp\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Funkcje/Zadanie #6.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest funkcje zadanie 4b" type="tests" factoryName="py.test">
@@ -385,21 +407,23 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python tests.Zadanie 6" />
+      <item itemvalue="Python tests.Zadanie 5" />
       <item itemvalue="Python tests.pytest funkcje zadanie 4b" />
       <item itemvalue="Python tests.pytest przykłady_funkcji" />
-      <item itemvalue="Python.Zadanie #3" />
-      <item itemvalue="Python.Zadanie #4" />
-      <item itemvalue="Python.Zadanie #4a" />
-      <item itemvalue="Python.Zadanie #4b" />
-      <item itemvalue="Python.Zadanie #rekurencje" />
+      <item itemvalue="Python.Zadanie #5" />
+      <item itemvalue="Python.Zadanie #7" />
+      <item itemvalue="Python tests.Test Zadanie #7" />
+      <item itemvalue="Python.Zadanie #8" />
+      <item itemvalue="Python.Wprowadzenie" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Zadanie #rekurencje" />
-        <item itemvalue="Python.Zadanie #4b" />
-        <item itemvalue="Python.Zadanie #4a" />
-        <item itemvalue="Python.Zadanie #4" />
-        <item itemvalue="Python.Zadanie #3" />
+        <item itemvalue="Python.Wprowadzenie" />
+        <item itemvalue="Python.Zadanie #8" />
+        <item itemvalue="Python tests.Test Zadanie #7" />
+        <item itemvalue="Python.Zadanie #7" />
+        <item itemvalue="Python.Zadanie #5" />
       </list>
     </recent_temporary>
   </component>
@@ -421,39 +445,46 @@
       <option name="project" value="LOCAL" />
       <updated>1540841459258</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="funkcje">
+      <created>1541446094171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541446094171</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_Zadanie_#3_py - 2018.11.05 at 18h 27m 01s.xml">
-      <configuration name="pytest in Zadanie #3.py" configurationId="tests" />
+    <history-entry file="Test_Zadanie_#7 - 2018.11.07 at 19h 52m 35s.xml">
+      <configuration name="Test Zadanie #7" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_Zadanie_#3_py - 2018.11.05 at 18h 27m 10s.xml">
-      <configuration name="pytest in Zadanie #3.py" configurationId="tests" />
+    <history-entry file="Test_Zadanie_#7 - 2018.11.07 at 19h 52m 47s.xml">
+      <configuration name="Test Zadanie #7" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_Zadanie_#3_py - 2018.11.05 at 18h 28m 09s.xml">
-      <configuration name="pytest in Zadanie #3.py" configurationId="tests" />
+    <history-entry file="Test_Zadanie_#7 - 2018.11.07 at 19h 54m 37s.xml">
+      <configuration name="Test Zadanie #7" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_Zadanie_#3_py - 2018.11.05 at 18h 28m 59s.xml">
-      <configuration name="pytest in Zadanie #3.py" configurationId="tests" />
+    <history-entry file="Test_Zadanie_#7 - 2018.11.07 at 19h 54m 45s.xml">
+      <configuration name="Test Zadanie #7" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_Zadanie_#3_py - 2018.11.05 at 18h 29m 06s.xml">
-      <configuration name="pytest in Zadanie #3.py" configurationId="tests" />
+    <history-entry file="Test_Zadanie_#7 - 2018.11.07 at 19h 55m 34s.xml">
+      <configuration name="Test Zadanie #7" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_Zadanie_#3_py - 2018.11.05 at 18h 35m 14s.xml">
-      <configuration name="pytest in Zadanie #3.py" configurationId="tests" />
+    <history-entry file="Test_Zadanie_#7 - 2018.11.07 at 19h 56m 12s.xml">
+      <configuration name="Test Zadanie #7" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_Zadanie_#3_py - 2018.11.05 at 18h 35m 27s.xml">
-      <configuration name="pytest in Zadanie #3.py" configurationId="tests" />
+    <history-entry file="Test_Zadanie_#7 - 2018.11.07 at 19h 59m 05s.xml">
+      <configuration name="Test Zadanie #7" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_Zadanie_#3_py - 2018.11.05 at 18h 35m 37s.xml">
-      <configuration name="pytest in Zadanie #3.py" configurationId="tests" />
+    <history-entry file="Test_Zadanie_#7 - 2018.11.07 at 20h 00m 59s.xml">
+      <configuration name="Test Zadanie #7" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.11.05 at 20h 16m 25s.xml">
-      <configuration name="Unnamed" configurationId="tests" />
+    <history-entry file="Test_Zadanie_#7 - 2018.11.07 at 20h 01m 40s.xml">
+      <configuration name="Test Zadanie #7" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_funkcje_zadanie_4b - 2018.11.05 at 20h 16m 47s.xml">
-      <configuration name="pytest funkcje zadanie 4b" configurationId="tests" />
+    <history-entry file="Test_Zadanie_#7 - 2018.11.07 at 20h 02m 42s.xml">
+      <configuration name="Test Zadanie #7" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -470,15 +501,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5031056" side_tool="true" weight="0.21546261" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.47001934" visible="true" weight="0.21546261" />
-      <window_info id="Structure" order="2" sideWeight="0.52998066" side_tool="true" visible="true" weight="0.21546261" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.46536797" visible="true" weight="0.21546261" />
+      <window_info id="Structure" order="2" sideWeight="0.534632" side_tool="true" visible="true" weight="0.21546261" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49936628" weight="0.33870968" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5006337" side_tool="true" weight="0.5652759" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.3293011" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.3293011" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.30510753" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.37903225" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39919356" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -735,11 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-          <folding>
-            <marker date="1540837798758" expanded="true" signature="17:37" ph="..." />
-            <marker date="1540837798758" expanded="true" signature="68:75" ph="..." />
-            <marker date="1540837798758" expanded="true" signature="339:424" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -747,17 +773,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <marker date="1540840195711" expanded="true" signature="222:227" ph="..." />
-            <marker date="1540840195711" expanded="true" signature="305:310" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
             <marker date="1541439532876" expanded="true" signature="46:47" ph="..." />
             <marker date="1541439532876" expanded="true" signature="46:51" ph="..." />
@@ -769,8 +791,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="65" />
+        <state relative-caret-position="561">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="65" />
           <folding>
             <marker date="1541442199376" expanded="true" signature="328:333" ph="..." />
           </folding>
@@ -780,30 +802,82 @@
     <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #4a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
-          <folding>
-            <marker date="1541444746718" expanded="true" signature="492:510" ph="..." />
-          </folding>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #4b.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <marker date="1541445249593" expanded="true" signature="234:355" ph="..." />
-            <marker date="1541445249593" expanded="true" signature="413:418" ph="..." />
-          </folding>
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #rekurencje.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="54" lean-forward="true" selection-start-line="21" selection-end-line="23" selection-end-column="54" />
           <folding>
-            <marker date="1541446005327" expanded="true" signature="180:326" ph="..." />
+            <marker date="1541613423156" expanded="true" signature="547:613" ph="..." />
+            <marker date="1541613423156" expanded="true" signature="652:698" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <marker date="1541614631422" expanded="true" signature="225:283" ph="..." />
+            <marker date="1541614631422" expanded="true" signature="322:327" ph="..." />
+            <marker date="1541614631422" expanded="true" signature="646:651" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #7a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1541617683335" expanded="true" signature="33:367" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding>
+            <marker date="1541617976867" expanded="true" signature="113:204" ph="..." />
+            <marker date="1541617976867" expanded="true" signature="135:182" ph="..." />
+            <marker date="1541617976867" expanded="true" signature="217:222" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming/Wprowadzenie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1541619151585" expanded="true" signature="114:208" ph="..." />
           </folding>
         </state>
       </provider>
