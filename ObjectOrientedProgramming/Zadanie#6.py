@@ -26,3 +26,5 @@ v3 = v1 + v2
 print(v3)    #to samo co v4 = v1.__add__(v2)
 
 print (v2 < v1)
+
+Kontakt Krzysztof: k.adamek@alx.pl
