@@ -4,12 +4,19 @@ from Zadanie4aPrzedmiot import Przedmiot
 class Postac():
     def __init__(self, imie, atak, zdrowie):
         self.imie = imie
-        self.atak = atak
+        self._atak = atak
         self.zdrowie = zdrowie
     # zdrowie trzeba rozbić dodatkowo, bo będzie zmienne
         self.max_zdrowie = zdrowie
         self.ekwipunek = []    #tu będą przedmioty dające extra atak, tego nie definiujesz przy tworzeniu psotaci
                                #stąd nie ma tego za __init__(...)
+    @property         #dynamiczny atrybut
+    def atak(self):
+        atak_xtra = self._atak
+        for przedmiot in self.ekwipunek:
+            atak_xtra += przedmiot.bonus_atk
+        return atak_xtra
+
 
     #stwórzmy metodę, że nasza postać potrafi się przedstawić:
     def przedstaw_sie(self):
@@ -58,7 +65,11 @@ class Postac():
     def daj_przedmiot(self,przedmiot):
         self.ekwipunek.append(przedmiot)
 
-    def atak_pus(self):  # dodatkowy atak z sily przedmiotu
+    # def atak_pus(self):  # dodatkowy atak z sily przedmiotu
+    #     atak_xtra = self.atak
+    #     for przedmiot in self.ekwipunek:
+    #         atak_xtra += przedmiot.bonus_atk
+    #     return atak_xtra
 
     #taki dekorator musi być do definiowania zmiennej statycznej
     @staticmethod
@@ -85,15 +96,17 @@ class Postac():
 # rufus.wylecz(20)
 
 #walka:
-rufus = Postac("Rufus", 60, 1000)
+rufus = Postac("Rufus", 65, 800)
 janusz = Postac("Janusz", 70, 800)
+#tworzymy przedmioty:
+tulipan = Przedmiot("Zielony tulipan zniszczenia", 5)
+rufus.daj_przedmiot(tulipan)
+#print(f"bonus atak: {rufus.atak_pus()}")
+
 Postac.walka(rufus, janusz)
 print(rufus)
 print(janusz)
 
-#tworzymy przedmioty:
-tulipan = Przedmiot("Zielony tulipan zniszczenia", 5)
-rufus.daj_przedmiot(tulipan)
 
 
 
