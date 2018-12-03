@@ -75,6 +75,7 @@ class Postac():
     @staticmethod
     def walka(atakujacy, broniacy):
         print(f"Walka: {atakujacy.imie} vs {broniacy.imie}")
+
         while atakujacy.czy_zyje() and broniacy.czy_zyje():
             print(atakujacy)
             print(broniacy)
