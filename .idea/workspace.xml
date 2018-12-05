@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5e41f5d-20c3-44c5-896c-b6cc26115bde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pliki/Przyklady.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pliki/Zadanie#1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pliki/Zadanie#2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pliki/dane/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pliki/dane/logs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +17,7 @@
     <session id="-663098453">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.21" value="1" />
@@ -104,7 +99,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pliki/Zadanie#2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="438">
               <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
@@ -527,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543433288358</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="obiekty">
+      <created>1543865340161</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1543865340161</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -573,18 +575,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5259594" side_tool="true" weight="0.21546261" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.47404063" visible="true" weight="0.21546261" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.47404063" visible="true" weight="0.21546261" />
       <window_info id="Structure" order="2" sideWeight="0.5259594" side_tool="true" weight="0.21546261" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49936628" weight="0.3386628" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49936628" visible="true" weight="0.3373656" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5006337" side_tool="true" weight="0.5652759" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.3293011" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.35610464" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.40860215" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.40860215" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.39919356" />
@@ -994,7 +995,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pliki/Zadanie#2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="438">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
