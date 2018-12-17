@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5e41f5d-20c3-44c5-896c-b6cc26115bde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Regular Expressions/Info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular Expressions/Zadanie#5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular Expressions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StdLib/Zad#3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Apps/Info.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,26 +18,26 @@
     <session id="-663098453">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="24" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.33" value="2" />
-          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="2" />
           <entry key="project.open.time.39" value="2" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,7 +46,7 @@
           <entry key="cwiczenie_pierwsze" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="js" value="1" />
-          <entry key="py" value="82" />
+          <entry key="py" value="83" />
           <entry key="txt" value="12" />
           <entry key="url" value="1" />
         </counts>
@@ -57,7 +54,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="84" />
+          <entry key="Python" value="85" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -68,14 +65,14 @@
           <entry key="cwiczenie_pierwsze" value="600" />
           <entry key="dummy" value="1" />
           <entry key="gitignore" value="19" />
-          <entry key="py" value="57829" />
-          <entry key="txt" value="25" />
+          <entry key="py" value="58057" />
+          <entry key="txt" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="45" />
-          <entry key="Python" value="58940" />
+          <entry key="PLAIN_TEXT" value="46" />
+          <entry key="Python" value="59168" />
         </counts>
       </usages-collector>
     </session>
@@ -85,67 +82,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pliki/Zadanie#4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <marker date="1544464293691" expanded="true" signature="97:102" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StdLib/Zad#1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StdLib/Zad#2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-              <folding>
-                <element signature="e#90#101#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Regular Expressions/Info.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Regular Expressions/Zadanie#5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StdLib/Zad#3.py">
+        <entry file="file://$PROJECT_DIR$/Web_Apps/Info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <marker date="1544643037728" expanded="true" signature="37:42" ph="..." />
-                <marker date="1544643037728" expanded="true" signature="37:346" ph="..." />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -165,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Collections/Zadanie #10.py" />
         <option value="$PROJECT_DIR$/Collections/Zadanie #11.py" />
         <option value="$PROJECT_DIR$/Collections/Zadanie #12.py" />
         <option value="$PROJECT_DIR$/Funkcje/Zadanie #1.py" />
@@ -216,6 +156,7 @@
         <option value="$PROJECT_DIR$/Pliki/Zadanie#4.py" />
         <option value="$PROJECT_DIR$/Regular Expressions/Zadanie#5.py" />
         <option value="$PROJECT_DIR$/StdLib/Zad#3.py" />
+        <option value="$PROJECT_DIR$/Web_Apps/Info.py" />
       </list>
     </option>
   </component>
@@ -241,6 +182,24 @@
               <item name="python_bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_bootcamp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Apps" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Apps" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -248,7 +207,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ObjectOrientedProgramming/Zadanie#8.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Web_Apps/examples" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -591,7 +550,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544470444191</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="git push2">
+      <created>1544643045744</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1544643045744</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -637,18 +603,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5259594" side_tool="true" weight="0.21546261" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.47404063" visible="true" weight="0.21546261" />
       <window_info id="Structure" order="2" sideWeight="0.5259594" side_tool="true" weight="0.21546261" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49936628" weight="0.3293011" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49936628" visible="true" weight="0.3293011" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5006337" side_tool="true" weight="0.5652759" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.3293011" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.35610464" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.40860215" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.40860215" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.39919356" />
@@ -721,16 +686,10 @@
     <MESSAGE value="funkcje2" />
     <MESSAGE value="obiekty" />
     <MESSAGE value="git push" />
-    <option name="LAST_COMMIT_MESSAGE" value="git push" />
+    <MESSAGE value="git push2" />
+    <option name="LAST_COMMIT_MESSAGE" value="git push2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #4a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Funkcje/Zadanie #4b.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -981,9 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -991,10 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <marker date="1544030963709" expanded="true" signature="858:906" ph="..." />
-            <marker date="1544030963709" expanded="true" signature="1715:2065" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1002,34 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StdLib/Zad#1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StdLib/Zad#2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding>
-            <element signature="e#90#101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pliki/Zadanie#4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1544464293691" expanded="true" signature="97:102" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1042,10 +966,31 @@
     <entry file="file://$PROJECT_DIR$/Pliki/dane/logs.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Pliki/Zadanie#4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StdLib/Zad#1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StdLib/Zad#2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Regular Expressions/Info.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="23" />
+          <caret column="2" selection-start-column="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1058,12 +1003,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StdLib/Zad#3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <marker date="1544643037728" expanded="true" signature="37:42" ph="..." />
-            <marker date="1544643037728" expanded="true" signature="37:346" ph="..." />
-          </folding>
+        <state relative-caret-position="295">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_Apps/Info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
