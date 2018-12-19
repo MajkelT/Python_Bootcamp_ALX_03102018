@@ -1,4 +1,6 @@
-# żeby uruchomić serwer ptyhon manage.py runserver
+# żeby uruchomić serwer ptyhon manage.py runserver (musisz być w katalogu, w którym jest manage.py)
+# python manage.py shell - uruchoamia shell (wcześniej pip install ipython - lepsza konsola)
+# python manage.py showmigrations
 
 from django.http import HttpResponse
 
