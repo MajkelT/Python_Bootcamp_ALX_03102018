@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div.book {width: 25%;}
+        img.cover {max-width: 150px;}
+    </style>
+</head>
+
+<body>
+To są moje książki:
+{% for k in ksiazki %}
+<div class="book>
+    <h2>}{{ k.title }}</h2>
+    <div class="author">Author: {{ k.author }}</div>
+    <article>{{k.description }}</article>
+    <img class="cover" src = http://images.nexto.pl/upload/publisher/Biblios/public/pan_tadeusz.png>
+    {# k.cover #}
+</div>
+{% endfor %}
+
+{{books}}      #to jest przekazywane w context (view)
+</body>
+</html>
