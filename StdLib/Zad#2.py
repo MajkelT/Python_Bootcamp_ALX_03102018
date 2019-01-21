@@ -22,6 +22,7 @@ with urlopen(f"https://www.metaweather.com/api/location/{ID}/") as file:
 
 
 
+
 #with urlopen("https://www.metaweather.com/api/location/search/?query=Warsaw") as file:
 #print(warszawa)   #[{'title': 'Warsaw', 'location_type': 'City', 'woeid': 523920, 'latt_long': '52.235352,21.009390'}]
 #print(warszawa[0]["title"])  #Warsaw
